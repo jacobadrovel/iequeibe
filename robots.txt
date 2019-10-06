@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://usoovuifoo.kijindojo.co.uk/sitemap.xml
